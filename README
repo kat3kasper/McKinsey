@@ -1,0 +1,6 @@
+Katelyn Kasperowicz
+Completing Technical Intern Exercise Code Challenge
+
+Given an array of integers, write some code to find all the integers that appear more than once in the array, sorted by which appears most often to least often (once)
+
+When given this challenge, I immediately thought the easiest way to do this was in PHP. It would only take a few lines of coding to achieve this goal. I wrote that up first in numberSort.php. I figured, however, that you wanted to view more of my programming skills and styles so I also wrote a java class IntegerSort.java to show the same challenge in Java.
